@@ -4,7 +4,7 @@ The provided dataset has information on 100k orders from 2016 to 2018 from a lar
 order status, product attributes, price, etc. The merchants are able to sell their products through 
 the marketplace and ship them directly to the customers.
 
-#Description of datasets
+# Description of datasets
 1. customers_dataset.csv : This dataset groups the customers information (customer 
 id and geolocation information). There are duplicate customer_unique_id, because 
 the dataset is per order. Where client_id is the key to the order dataset. Each order 
@@ -18,4 +18,4 @@ product purchased (product id, quantity = order_item_id, price of product, etc.)
 various characteristics of dimensions and weight of each product.
 5. product_category_name.csv : Translated product category in English
 
-#dataset can be found in the folder, two ipynb files are the code 
+dataset can be found in the folder, two ipynb files are the code 
